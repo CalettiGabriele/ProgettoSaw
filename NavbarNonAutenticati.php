@@ -52,7 +52,7 @@
               </ul>
               <form class="form-inline">
                 <input class="form-control mr-sm-2" type="search" placeholder="Cerca" aria-label="Search">
-                <button class="btn btn-outline-info" type="submit">Cerca</button>
+                <button class="btn btn-outline-info" type="submit">cerca</button>
               </form>
 
 
